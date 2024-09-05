@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="home">HOME</string>
+    <string name="hotels">HOTELS</string>
+    <string name="restaurants">RESTAURANTS</string>
+    <string name="cinema">CINEMA</string>
+    <string name="malls">MALLS</string>
+    <string name="recreation">RECREATION</string>
+    <string name="stadiums">STADIUMS</string>
+    <string name="owerri">WELCOME to the beautiful city of Owerri,
+        the Eastern HeartLand of Nigeria Imo State, a home for comfort, fun and relaxation
+    consider the following options below to find your way through the most amazing spots in
+    this great city</string>
+    <string name="header">welcome to Owerri</string>
+    <string name="instructions"></string>
+    <string name="cinema_name">Genesis Cinema</string>
+    <string name="cinema_address">no 3 Egbu road, Owerri, Nigeria</string>
+    <string name="hotel1">Concorde Hotel</string>
+    <string name="hotel_address1">5043 Cheif Evan Enwerem Ave, New Owerri, Owerri, Nigeria</string>
+    <string name="hotel2">RockView Hotels Limited</string>
+    <string name="hotel_address2">Plot CP/2-CP/5, Government Station Layout opposite Imo
+    State house, Owerri Nigeria</string>
+    <string name="hotel3">All Seasons Hotel</string>
+    <string name="hotel_address3">Plot 5047-5049,All Seasons Avenue, off PortHarcourt
+    Road, New Owerri</string>
+    <string name="hotel4">Greatwood Hotels</string>
+    <string name="hotel_address4">Plot 12, Commercial District G PortHacourt
+    Owerri Road New Owerri, 000460, Owerri, Nigeria</string>
+    <string name="hotel5">Immaculate Royal Hotel</string>
+    <string name="hotel_address5">PortHarcourt Road, New Owerri, Owerri, Nigeria</string>
+    <string name="hotel6">Owerri Plaza Hotel</string>
+    <string name="hotel_address6">New Owerri, Owerri, Nigeria</string>
+    <string name="hotel7">Titanic View Hotels and Suites Ltd</string>
+    <string name="hotel_address7">Sam Mbakwe Avenue, by World Bank Estate,
+    New Owerri, Owerri, Nigeria</string>
+    <string name="mall1">Shoprite</string>
+    <string name="mall_address1">Egbu Road, Owerri, Nigeria</string>
+    <string name="mall2">The Aladinma Mall</string>
+    <string name="mall_address2">Prefab Aladinma, Owerri, Nigeria</string>
+    <string name="mall3">House of Freeda Shopping Mall</string>
+    <string name="mall_address3">MCC, Uratta Road, Owerri, Nigeria</string>
+    <string name="mall4">Yudala Limited</string>
+    <string name="mall_address4">3 Egbu Road, Owerri, Nigeria</string>
+    <string name="recreation1">Junic Recreation Center</string>
+    <string name="recreation_address1">Concorde Ave, New owerri, Owerri, Nigeria</string>
+    <string name="recreation2">Owerri Zoo</string>
+    <string name="recreation_address2">New Owerri, Owerri, Nigeria</string>
+    <string name="restaurant1">Hungry Man Restaurant</string>
+    <string name="restaurant_address1">Musa YarAdua Way, New Owerrri, Owerri, Nigeria</string>
+    <string name="restaurant2">Ibari Ogwa</string>
+    <string name="restaurant_address2">Port Harcourt Road, New Owerri, Owerri, Nigeria</string>
+    <string name="restaurant3">Katty Fastfood</string>
+    <string name="restaurant_address3"> No 2 Nekede Road, Owerri, Nigeria</string>
+    <string name="restaurant4">Kings Dine</string>
+    <string name="restaurant_address4"> Portharcourt Road, New Owerri, Owerri, Nigeria</string>
+    <string name="restaurant5">Mimi Place</string>
+    <string name="restaurant_address5">Plot 5046, Beside All Seasons Hotel, New Owerri,
+        New Owerri Nigeria</string>
+    <string name="restaurant6">Tweeter Bites</string>
+    <string name="restaurant_address6">Mbari Road, Ikenegbu layout, Owerri, Nigeria</string>
+    <string name="restaurant7">Jevenik</string>
+    <string name="restaurant_address7">19 Umez Eronini Street,Ikenegbu layout,
+    Owerri, Nigeria</string>
+    <string name="stadium1">Dan Anyiam Stadium</string>
+    <string name="stadium_address1">Wetheral Road, Owerri, Nigeria</string>
+</resources>

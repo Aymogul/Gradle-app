@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_hotels"
+            android:icon="@drawable/ic_hotel"
+            android:title="@string/hotels" />
+        <item
+            android:id="@+id/nav_restaurants"
+            android:icon="@drawable/ic_restaurant"
+            android:title="@string/restaurants" />
+        <item
+            android:id="@+id/nav_cinema"
+            android:icon="@drawable/ic_cinema"
+            android:title="@string/cinema" />
+        <item
+            android:id="@+id/nav_malls"
+            android:icon="@drawable/ic_mall"
+            android:title="@string/malls" />
+        <item
+            android:id="@+id/nav_recreation"
+            android:icon="@drawable/ic_recreation"
+            android:title="@string/recreation" />
+        <item
+            android:id="@+id/nav_stadiums"
+            android:icon="@drawable/ic_stadium"
+            android:title="@string/stadiums" />
+    </group>
+</menu>
